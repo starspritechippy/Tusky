@@ -40,17 +40,17 @@
 # TUSKY SPECIFIC OPTIONS
 
 # keep members of our model classes, they are used in json de/serialization
--keepclassmembers class com.keylesspalace.tusky.entity.* { *; }
+-keepclassmembers class com.chippy.deeznuts.entity.* { *; }
 
--keep public enum com.keylesspalace.tusky.entity.*$** {
+-keep public enum com.chippy.deeznuts.entity.*$** {
     **[] $VALUES;
     public *;
 }
 
--keepclassmembers class com.keylesspalace.tusky.components.conversation.ConversationAccountEntity { *; }
--keepclassmembers class com.keylesspalace.tusky.db.DraftAttachment { *; }
+-keepclassmembers class com.chippy.deeznuts.components.conversation.ConversationAccountEntity { *; }
+-keepclassmembers class com.chippy.deeznuts.db.DraftAttachment { *; }
 
--keep enum com.keylesspalace.tusky.db.DraftAttachment$Type {
+-keep enum com.chippy.deeznuts.db.DraftAttachment$Type {
     public *;
 }
 

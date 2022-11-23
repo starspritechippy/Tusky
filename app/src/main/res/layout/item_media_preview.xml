@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:parentTag="androidx.constraintlayout.widget.ConstraintLayout">
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.chippy.deeznuts.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_0"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"
@@ -14,7 +14,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="ContentDescription" />
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.chippy.deeznuts.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_1"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"
@@ -25,7 +25,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="ContentDescription" />
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.chippy.deeznuts.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_2"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"
@@ -36,7 +36,7 @@
             app:layout_constraintTop_toBottomOf="@+id/status_media_preview_0"
             tools:ignore="ContentDescription" />
 
-        <com.keylesspalace.tusky.view.MediaPreviewImageView
+        <com.chippy.deeznuts.view.MediaPreviewImageView
             android:id="@+id/status_media_preview_3"
             android:layout_width="0dp"
             android:layout_height="@dimen/status_media_preview_height"

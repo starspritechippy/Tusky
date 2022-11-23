@@ -34,7 +34,7 @@
                 android:lineSpacingMultiplier="1.1"
                 android:text="@string/license_description" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -44,7 +44,7 @@
                 license:link="https://kotlinlang.org/"
                 license:name="Kotlin" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -54,7 +54,7 @@
                 license:link="https://developer.android.com/jetpack/androidx"
                 license:name="AndroidX" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -64,7 +64,7 @@
                 license:link="https://github.com/material-components/material-components-android"
                 license:name="Material Components for Android" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -74,7 +74,7 @@
                 license:link="https://square.github.io/okhttp/"
                 license:name="OkHttp" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -84,7 +84,7 @@
                 license:link="https://github.com/google/conscrypt"
                 license:name="Conscrypt" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -94,7 +94,7 @@
                 license:link="https://square.github.io/retrofit/"
                 license:name="Retrofit" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -104,7 +104,7 @@
                 license:link="https://github.com/google/gson"
                 license:name="Gson" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -114,7 +114,7 @@
                 license:link="https://bumptech.github.io/glide/"
                 license:name="Glide" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -124,7 +124,7 @@
                 license:link="https://google.github.io/dagger/"
                 license:name="Dagger 2" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -134,7 +134,7 @@
                 license:link="https://github.com/ReactiveX/RxJava"
                 license:name="RxJava" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -144,7 +144,7 @@
                 license:link="https://github.com/uber/AutoDispose"
                 license:name="AutoDispose" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -154,7 +154,7 @@
                 license:link="https://github.com/mikepenz/MaterialDrawer"
                 license:name="MaterialDrawer" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -164,7 +164,7 @@
                 license:link="https://github.com/connyduck/SparkButton"
                 license:name="SparkButton" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -174,7 +174,7 @@
                 license:link="https://github.com/chrisbanes/PhotoView"
                 license:name="PhotoView" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -184,7 +184,7 @@
                 license:link="https://github.com/CanHub/Android-Image-Cropper"
                 license:name="Android Image Cropper" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -194,7 +194,7 @@
                 license:link="https://github.com/penfeizhou/APNG4Android"
                 license:name="APNG4Android" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -204,7 +204,7 @@
                 license:link="https://github.com/C1710/FileMojiCompat"
                 license:name="FileMojiCompat" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -214,7 +214,7 @@
                 license:link="https://twemoji.twitter.com/"
                 license:name="Twemoji" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
@@ -224,7 +224,7 @@
                 license:link="https://github.com/c1710/blobmoji"
                 license:name="Blobmoji" />
 
-            <com.keylesspalace.tusky.view.LicenseCard
+            <com.chippy.deeznuts.view.LicenseCard
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="12dp"
